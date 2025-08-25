@@ -28,7 +28,4 @@ Authentication is handled via **UiO’s Weblogin 2**.
 
 # Screenshots
 Here are some screenshots from the platform:
-
-![Screenshot 1](<img width="1434" height="749" alt="homepage" src="https://github.com/user-attachments/assets/096d8e36-b20d-4f1f-ba68-3e1731c7f903" />
-)  
-![Screenshot 2](path/to/screenshot2.png)
+<img width="1434" height="749" alt="homepage" src="https://github.com/user-attachments/assets/1486b0f8-c17e-4be6-9c7c-755817bdfe97" />
